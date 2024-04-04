@@ -46,3 +46,4 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_sections: repositories, history, base
+          config_order: base.header, languages, lines, notable
